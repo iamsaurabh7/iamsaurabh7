@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Saurabh Verma</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<!--
-**iamsaurabh7/iamsaurabh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning **MERN Stack**
 
-Here are some ideas to get you started:
+- 👨‍💻 All of my projects are available at [https://github.com/iamsaurabh7](https://github.com/iamsaurabh7)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **HTML, CSS, Bootstrap, API, GitHub, JavaScript, ReactJS**
+
+- 📫 How to reach me **iamsaurabhverma7@gmail.com**
+
+- ⚡ Fun fact **Why don't JavaScript developers get lost? Because they always follow the 'map'!**
+
+

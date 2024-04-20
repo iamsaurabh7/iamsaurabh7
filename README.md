@@ -1,14 +1,67 @@
 <h1 align="center">Hi 👋, I'm Saurabh Verma</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<div align="center"><h3>I am Saurabh , a Full Stack Developer . I really enjoy Learning Languages and Frameworks like React , Express and Node.js. Ability to learn things quickly and capable of working in a fast-paced and team-driven environment.</h3></div>
+<img align="right" alt="coding" borderRadius="20"  width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif" />
 
-- 🌱 I’m a **MERN Stack** Developer
 
-- 👨‍💻 All of my projects are available at [https://github.com/iamsaurabh7](https://github.com/iamsaurabh7)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, API, GitHub, JavaScript, TypeScript, ReactJS, NodeJS, MongoDB, ExpressJS, Redux, Chakra-ui**
+- 🌱 I’m currently learning **MongoDB , Express js and Java**
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://saurabh-verma-portfolio.netlify.app/)
+
+- 💬 Ask me about **Reactjs , Express , Node.js.**
+
+- 📄 This is [My Resume](https://drive.google.com/uc?id=1lUg_b_E6o9MpQMwFbNcWZ8pizXnH6Lrh)
+
+- 👨‍💻 This is my [My LeetCode Account](https://leetcode.com/iamsaurabhverma/)
 
 - 📫 How to reach me **iamsaurabhverma7@gmail.com**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabhvermasv/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamsaurabhv) 
 
-- ⚡ Fun fact **Why don't JavaScript developers get lost? Because they always follow the 'map'!**
+<p align="left">
+</p>
+<img align="left" width="50" alt="tools" src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" />
+<h1 align="left">Languages and Tools:</h1>
+
+### Frontend  
+<div display="flex">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
+<!-- <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>   -->
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
+
+</td><td valign="top" width="33%">
 
 
+
+### Backend  
+<div display="flex">  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
+<!-- <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>   -->
+<!-- <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>   -->
+<!-- <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>   -->
+<!-- <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>   -->
+<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+## 📊 GitHub Stats:
+
+<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamsaurabh7&layout=compact&langs_count=6&theme=light&count_private=false" alt="iamsaurabh7" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamsaurabh7&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="iamsaurabh7" /></p> -->
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsaurabh7" alt="iamsaurabh7" /></p>

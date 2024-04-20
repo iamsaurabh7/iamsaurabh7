@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **MongoDB , Express js and Java**
+- 🌱 I’m currently practicing **MERN stack**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://saurabh-verma-portfolio.netlify.app/)
 

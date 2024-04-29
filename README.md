@@ -64,4 +64,4 @@
 <p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iamsaurabh7&layout=compact&card_width=370&langs_count=6&theme=dark&hide_border=false&count_private=false" alt="iamsaurabh7" /></p>
 <!-- <p><img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=iamsaurabh7&show_icons=true&theme=light&include_all_commits=true&count_private=true" alt="iamsaurabh7" /></p> -->
   
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iamsaurabh7&theme=dark&hide_border=false&card_width=400&hide_longest_streak=true" alt="iamsaurabh7" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iamsaurabh7&theme=dark&hide_border=false&card_width=400" alt="iamsaurabh7" /></p>

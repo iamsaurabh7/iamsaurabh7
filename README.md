@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://saurabh-verma-portfolio.netlify.app/)
 
-- 💬 Ask me about **Reactjs , Express , Node.js.**
+- 💬 Ask me about **JavaScript , TypeScript , Reactjs , Express , Node.js , MongoDB**
 
 - 📄 This is [My Resume](https://drive.google.com/uc?id=1lUg_b_E6o9MpQMwFbNcWZ8pizXnH6Lrh)
 

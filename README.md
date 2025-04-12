@@ -13,7 +13,7 @@
 ---
 
 ### 🔹 **About Me**
-- 🌱 Currently deep-diving into **JavaScript, TypeScript, Next.js, and AdonisJS**.
+- 🌱 Currently deep-diving into **JavaScript, TypeScript, Next.js, Node.js, AdonisJS and SQL/NoSQL DB**.
 - 💻 Check out my **[Portfolio](https://saurabh-verma-portfolio.netlify.app/)**.
 - 📝 Here's my **[Resume](https://drive.google.com/uc?id=1lUg_b_E6o9MpQMwFbNcWZ8pizXnH6Lrh)**.
 - 🎯 **LeetCode Profile:** [iamsaurabhverma](https://leetcode.com/iamsaurabhverma/).
